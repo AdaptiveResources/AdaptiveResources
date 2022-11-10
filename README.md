@@ -1,6 +1,6 @@
-> 🌱 Digital Solutions for Responsible Trade
-> 🔗 Making raw material supply chains more equitable and transparent
-> 📍 San Francisco, USA / Entebbe, Uganda
+- 🌱 Digital Solutions for Responsible Trade
+- 🔗 Making raw material supply chains more equitable and transparent
+- 📍 San Francisco, USA / Entebbe, Uganda
 
 Adaptive Resources connects stakeholders to drive environmental and labor improvements in high-risk supply chains. Brands can directly contribute to progressive improvement based on the amount of a raw material consumed as a company.
 
