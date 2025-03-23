@@ -7,6 +7,3 @@ Adaptive Resources connects stakeholders to drive environmental and labor improv
 We facilitate partnerships to improve supply chain conditions. 
 
 The Adaptive Claim System enables producers, responsible trade actors, and civil society organizations to share the responsibility and costs of supply chain due diligence. The Adaptive Marketplace provides financial incentives and targeted resources across the value chain.
-
-
-📫 jon@adaptiveresources.io
